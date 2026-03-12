@@ -5,7 +5,7 @@ import java.util.Stack;
 class PalindromeChecker {
 
     // Public method exposed to user
-    public boolean checkPalindrome(String input) {
+    public boolean checkPalindrone(String input) {
 
         // Normalize string
         input = input.toLowerCase();
